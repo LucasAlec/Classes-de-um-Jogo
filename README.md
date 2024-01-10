@@ -28,11 +28,13 @@ Ao final deve se exibir uma mensagem:
   ## Exemplos:
 
 `const hero1 = new Heroi('Rick', 50, 'guerreiro');`
+
 `hero1.atacar();`
 
 guerreiro atacou usando espada
 
  `const hero2 = new Heroi('Gleen', 250, 'mago');`
+
 `hero2.atacar();`
 
 mago atacou usando magia
