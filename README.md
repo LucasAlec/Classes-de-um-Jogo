@@ -2,7 +2,7 @@
 
 ### Objetivo
 
-Criar a classe  `Heroi` com os seguintes
+Criar a classe  `Heroi` com os seguintes atributos:
 
 - `nome`
 - `idade`
